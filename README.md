@@ -1,47 +1,13 @@
 # test3
-## h2
-### h3
-#### h4 
-##### h5
-
-  
-
-**content**     
-__content__  
-content  __iltalic_  
-***content***  
-__*content*__
-
-
-> content
->> content
-
-
-1. content  
-3. content2
-40. content3
-
-+ content
-- content
-* content
-    * content1  
-       
-
-****
-____
-----  
-  
-
-![picture](https://picsum.photos/200)  
-  
-    
-[picture](https://www.google.co.th/?hl=th)
-  
-     
-       
-| header | header
---|--
-| data | data |
-data | **data**
-**_data_** | [data](https://www.google.co.th/?hl=th)
-
+# Git-test
+## Reprository
+>**_เป็น folder ไว้ใช้เก็บงาน สามารถสร้าง branch หรือ folder ย่อย เพื่อแยกไปเขียน code ได้_**
+>> - สร้าง markdown ใส่ใน folder ได้ โดยที่การเขียน markdown มีหลายรูปแบบไ เช่น
+>>>   * ตัวหนา ใช้  ** content **, __ content __
+>>>   * ตัวเอียง ใช้ * content *, _ content _
+>>>   * ตัวหนา + ตัวเอียง ใช้ *** content ***, __* content *__
+>>>   * ตีเส้นคั่น ใช้ ***, ---, ______
+>>>   * ใส่รูป ใช้  ![detail](url)
+>>>   * ใส่ link ในข้อความ [content](url)  
+เป็นต้น
+***
