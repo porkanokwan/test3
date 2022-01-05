@@ -1,2 +1,6 @@
 Lab git rebase 01
+<<<<<<< HEAD
 edit ..1
+=======
+line 02
+>>>>>>> ff1b7df (add line02)
