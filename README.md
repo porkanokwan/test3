@@ -13,7 +13,7 @@
 ***
 
 
-* Lab Branch *
+**Lab Branch**
 - สร้าง branch  ใหม่ด้วย git branch
 - checkout ไป branch ใหม่
 - สร้าง ไฟล์ .txt
@@ -28,7 +28,7 @@
 - ดูการเปลี่ยนแปลง
 
 
-* Lab Merge *
+**Lab Merge**
 
 กรณีมี conflict
 - แก้ไข file .txt ใน master
@@ -51,7 +51,7 @@
 - ทำการ merge เข้ากับ master อีกรอบ
 
  
-* Lab Rebase *
+**Lab Rebase**
 
 กรณีมี conflict 
 - สร้าง branch ใหม่
@@ -68,7 +68,7 @@
 - push ขึ้น repo
 - ทำการ rebase เข้ากับ master อีกรอบ
 
-* Lab Ignore *
+**Lab Ignore**
 - ลอง สร้างไฟล์ .html, .css, .js 
 push repo
 
